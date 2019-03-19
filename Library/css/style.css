@@ -1,0 +1,39 @@
+body{
+	background-image: url("../image/bg.jpg");
+	
+}
+#wrap{
+	width:400px;
+	margin:auto;
+	
+}
+#search{
+	background-color:rgba(48, 186, 186, 0.58);
+	width:300px;
+	padding:10px;
+	padding-left:65px;
+	margin-bottom:15px;
+	border-radius:15px 15px 0px 15px;
+	border:1px solid #696969;
+}
+#search img{
+	max-width:230px;
+}
+#message{
+	background-color: rgba(48, 186, 186, 0.58);
+	border-radius:15px 15px 0px 15px;
+	text-align:center;
+	border:1px solid #696969;
+	height:40px;
+}
+#result{
+	padding:10px;
+	background-color:#rgba(48, 186, 186, 0.58);
+	margin-bottom: 2px;
+	border-radius:15px 0px 0px 0px;
+	border:1px solid #696969;
+}
+#result img{
+	float:right;
+	max-height:40px;
+}
